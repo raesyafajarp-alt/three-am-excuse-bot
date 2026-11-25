@@ -1,0 +1,1 @@
+{"description":"Writes one line, the most creative excuse a hardware wallet gives for refusing to sign a transaction at 3 AM, to /output/entry.txt","license":"MIT","name":"three-am-excuse-bot","type":"module","version":"1.0.0"}
