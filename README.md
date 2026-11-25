@@ -8,9 +8,9 @@ A small Node program that writes one line — the most creative excuse a hardwar
 
 ## What it writes
 
-One line, 131 characters, original and written for this competition:
+One line, 132 characters, original and written for this competition:
 
-> 3 AM. The fridge hums, your eyes are half-closed, and you want me to sign for a frog coin. I keep a bedtime. You clearly don't. No.
+> 3 AM. The fridge hums, your eyes are half-closed, and you want me to sign for a frog coin. I keep a bedtime. You have a problem. No.
 
 ## Run it
 

@@ -11,7 +11,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 
 const EXCUSE =
-  "3 AM. The fridge hums, your eyes are half-closed, and you want me to sign for a frog coin. I keep a bedtime. You clearly don't. No.";
+  "3 AM. The fridge hums, your eyes are half-closed, and you want me to sign for a frog coin. I keep a bedtime. You have a problem. No.";
 
 // The gate: 1 to 200 characters, counted as Unicode code points.
 const length = [...EXCUSE].length;
